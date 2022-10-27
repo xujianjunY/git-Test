@@ -7,7 +7,5 @@
     <groupId>org.example</groupId>
     <artifactId>git-Test</artifactId>
     <version>1.0-SNAPSHOT</version>
-<!-- 我是主分支 -->
-<!-- 测试git  -->
-    <!--我是hot-fix分支-->
+<!-- 我是主分支,已经被上传到Github上了 -->
 </project>
